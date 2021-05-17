@@ -21,8 +21,8 @@ Must contain at least one number and one special symbol (!@#$%^&*).
 We will use Bluetooth on your device to detect contact around you. Our app will record that contact log and upload it for research purposes. Your sensitive info like content in devices and locations is not collected. 
 
 # How to contact us?
-If you find a bug using our App, please send an email to GeauxTraceDev@gmail.com. 
-
+If you find a bug using our App, please send an email to GeauxTraceDev@gmail.com.   
+Or you can create an issue on our github https://github.com/taoluwork/GeauxTrace_release.   
 If you have any questions, suggestions, or concerns about this project, please leave us a message at  GeauxTraceDev@gmail.com.  
 
 We appreciate your feedback!
