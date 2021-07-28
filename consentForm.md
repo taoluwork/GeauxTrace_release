@@ -2,7 +2,7 @@
 
 1. Study Title: Decentralized Contact Tracing System Design for COVID-19
 
-2. The purpose of this research project is to test the functionality of a contact tracing app for COVID-19. The study will take place over a period of 2 years. The study involves downloading an app onto your Android device and running it in the background for that period of time.
+2. The purpose of this research project is to test the functionality of a contact tracing app for COVID-19. The study will take place over a period of 2 years. The study involves downloading an app onto your device and running it in the background for that period of time.
 
 3. Inclusion criteria: You are eligible to participate if you are over 18 years of age and own a smartphone with Bluetooth capability that can download the app.
 
