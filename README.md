@@ -5,6 +5,13 @@ Welcome! Thank you for participating in the test of the GeauxTrace project. We a
 
 GeauxTrace Developers
 
+# What is GeauxTrace  
+Sponsored by National Institutes of Health, GeauxTrace is an App developed by LSU ECE students for contact tracing. It uses Bluetooth signals of smartphones for real-time distance measurement.  We emphasize privacy and security  protection:
+
+* De-identified user inputs: phone numbers and emails are not required to register and report;
+* User locations and other personal information are not needed;
+* All information are highly-encrypted and the system is protected from hacking.
+
 
 # Who can participate?
 * Anyone interested in this project is most welcomed to participate. 
