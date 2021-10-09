@@ -38,3 +38,5 @@ Sponsored by National Institutes of Health, GeauxTrace is an App developed by LS
   
 We appreciate your feedback! Thank you!
 
+More information about us and our apps could be found here: https://www.geauxtrace.com/
+
