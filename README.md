@@ -40,5 +40,15 @@ Sponsored by National Institutes of Health, GeauxTrace is an App developed by LS
   
 We appreciate your feedback! Thank you!
 
-More information about us and our apps could be found here: https://www.geauxtrace.com/
+# About us  
+We are a team of active developers within LSU. The team is advised by Prof. Lu Peng, and currently led by Tao Lu. Main contributers include: Fang Qi, John Ner, Tianqing Feng, Chris Vasquez. Previous contributers include: Abbas Al-Hassani, Ross Browning, William Frischhertz, Guan Lian.
+
+# More on press
+More information about us and our apps could be found here: https://www.geauxtrace.com/  
+We are also reported by several media:   
+* https://www.lsu.edu/eng/news/2021/09/pengtracingapp.php  
+* https://finance.yahoo.com/news/lsu-ece-professor-develops-contact-180000094.html?guccounter=1  
+* https://www.globenewswire.com/news-release/2021/09/28/2304839/0/en/LSU-ECE-Professor-Develops-Contact-Tracing-Mobile-App.html  
+* https://www.kulr8.com/news/money/lsu-ece-professor-develops-contact-tracing-mobile-app/article_3bf3091c-dd57-5edc-8070-e8e5fa900e34.html  
+
 
