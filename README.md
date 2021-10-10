@@ -43,7 +43,7 @@ We appreciate your feedback! Thank you!
 # About us  
 We are a team of active developers within LSU. The team is advised by Prof. Lu Peng, and currently led by Tao Lu. Main contributers include: Fang Qi, John Ner, Tianqing Feng, Chris Vasquez. Previous contributers include: Abbas Al-Hassani, Ross Browning, William Frischhertz, Guan Lian.
 
-# More on press
+# More on the press
 More information about us and our apps could be found here: https://www.geauxtrace.com/  
 We are also reported by several media:   
 * https://www.lsu.edu/eng/news/2021/09/pengtracingapp.php  
