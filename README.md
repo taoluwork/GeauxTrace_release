@@ -1,7 +1,7 @@
 # Welcome  
 Dear friend,   
 
-Welcome! Thank you for participating in the test of the GeauxTrace project. We appreciate your time and effort to help us improve this tool. With this project, our goal is to help control the disease and make the world a better place!  
+Welcome! Thank you for participating in the test of the GeauxTrace (pronounced "Go Trace") project. We appreciate your time and effort to help us improve this tool. With this project, our goal is to help control the disease and make the world a better place!  
 
 More information about us and our apps could be found here: https://www.geauxtrace.com/  
 
